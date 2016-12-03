@@ -1,0 +1,56 @@
+﻿@using System.Drawing
+@model Portfolio.Models.JuliaImage
+
+@{
+    ViewBag.Title = "Julia Render";
+}
+
+<h2>Fractal</h2>
+
+
+
+@using (Html.BeginForm("Index", "Fractal"))
+{
+    <div class="formdiv">
+        <div>
+            @Html.LabelFor(m => m.Width)
+            @Html.TextBoxFor(m => m.Width, new { @class = "form-control" })
+            @Html.LabelFor(m => m.Height)
+            @Html.TextBoxFor(m => m.Height, new { @class = "form-control" })
+        </div>
+
+        <div>
+
+            @Html.LabelFor(m => m.ConstantReal)
+            @Html.TextBoxFor(m => m.ConstantReal, new { @class = "form-control" })
+            @Html.LabelFor(m => m.ConstantImaginary)
+            @Html.TextBoxFor(m => m.ConstantImaginary, new { @class = "form-control" })
+        </div>
+        <div>
+            @Html.LabelFor(m => m.Threshold)
+            @Html.TextBoxFor(m => m.Threshold, new { @class = "form-control" })
+            @Html.LabelFor(m => m.Steps)
+            @Html.TextBoxFor(m => m.Steps, new { @class = "form-control" })
+
+        </div>
+
+        <div>
+            @Html.LabelFor(m => m.AlphaDivider)
+            @Html.TextBoxFor(m => m.AlphaDivider, new { @class = "form-control" })
+            @Html.LabelFor(m => m.RedDivider)
+            @Html.TextBoxFor(m => m.RedDivider, new { @class = "form-control" })
+        </div>
+        <div>
+            @Html.LabelFor(m => m.GreenDivider)
+            @Html.TextBoxFor(m => m.GreenDivider, new { @class = "form-control" })
+            @Html.LabelFor(m => m.BlueDivider)
+            @Html.TextBoxFor(m => m.BlueDivider, new { @class = "form-control" })
+        </div>
+
+        <input type="submit" value="Submit" />
+    </div>
+}
+
+
+
+<img src="@Model.FilePath" width="@Model.Width" height="@Model.Height" />
