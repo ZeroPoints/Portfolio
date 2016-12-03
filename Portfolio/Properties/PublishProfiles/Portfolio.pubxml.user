@@ -22,7 +22,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2013 15:40:12</publishTime>
     </File>
     <File Include="bin/Portfolio.dll">
-      <publishTime>03/12/2016 19:40:57</publishTime>
+      <publishTime>12/03/2016 19:40:57</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>06/18/2015 19:19:46</publishTime>
@@ -67,7 +67,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 05:02:18</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>02/11/2014 15:26:04</publishTime>
+      <publishTime>11/02/2014 15:26:04</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
       <publishTime>01/28/2015 05:02:32</publishTime>
@@ -85,85 +85,85 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/17/2013 17:03:52</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>07/02/2016 23:03:02</publishTime>
+      <publishTime>02/07/2016 23:03:02</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>07/02/2016 23:10:29</publishTime>
+      <publishTime>02/07/2016 23:10:29</publishTime>
     </File>
     <File Include="Scripts/ai.0.15.0-build58334.js">
-      <publishTime>07/02/2016 19:10:56</publishTime>
+      <publishTime>02/07/2016 19:10:56</publishTime>
     </File>
     <File Include="Scripts/ai.0.15.0-build58334.min.js">
-      <publishTime>07/02/2016 19:10:56</publishTime>
+      <publishTime>02/07/2016 19:10:56</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
-      <publishTime>07/02/2016 19:10:38</publishTime>
+      <publishTime>02/07/2016 19:10:38</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>07/02/2016 19:10:38</publishTime>
+      <publishTime>02/07/2016 19:10:38</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
-      <publishTime>07/02/2016 19:10:39</publishTime>
+      <publishTime>02/07/2016 19:10:39</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.js">
-      <publishTime>07/02/2016 19:10:39</publishTime>
+      <publishTime>02/07/2016 19:10:39</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.map">
-      <publishTime>07/02/2016 19:10:39</publishTime>
+      <publishTime>02/07/2016 19:10:39</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.js">
-      <publishTime>07/02/2016 19:10:42</publishTime>
+      <publishTime>02/07/2016 19:10:42</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.min.js">
-      <publishTime>07/02/2016 19:10:42</publishTime>
+      <publishTime>02/07/2016 19:10:42</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.js">
-      <publishTime>07/02/2016 19:10:43</publishTime>
+      <publishTime>02/07/2016 19:10:43</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.min.js">
-      <publishTime>07/02/2016 19:10:43</publishTime>
+      <publishTime>02/07/2016 19:10:43</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
-      <publishTime>07/02/2016 19:10:42</publishTime>
+      <publishTime>02/07/2016 19:10:42</publishTime>
     </File>
     <File Include="Scripts/respond.js">
-      <publishTime>07/02/2016 19:10:42</publishTime>
+      <publishTime>02/07/2016 19:10:42</publishTime>
     </File>
     <File Include="Scripts/respond.min.js">
-      <publishTime>07/02/2016 19:10:42</publishTime>
+      <publishTime>02/07/2016 19:10:42</publishTime>
     </File>
     <File Include="Styles/bootstrap.css">
-      <publishTime>07/02/2016 19:10:38</publishTime>
+      <publishTime>02/07/2016 19:10:38</publishTime>
     </File>
     <File Include="Styles/bootstrap.min.css">
-      <publishTime>07/02/2016 19:10:38</publishTime>
+      <publishTime>02/07/2016 19:10:38</publishTime>
     </File>
     <File Include="Styles/Site.css">
-      <publishTime>12/03/2016 18:50:20</publishTime>
+      <publishTime>03/12/2016 18:50:20</publishTime>
     </File>
     <File Include="Views/Fractal/Index.cshtml">
-      <publishTime>12/03/2016 18:50:37</publishTime>
+      <publishTime>03/12/2016 18:50:37</publishTime>
     </File>
     <File Include="Views/Home/Experience.cshtml">
       <publishTime>11/29/2016 19:34:52</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>12/03/2016 21:00:36</publishTime>
+      <publishTime>12/03/2016 21:03:02</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>07/02/2016 19:10:43</publishTime>
+      <publishTime>02/07/2016 19:10:43</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>12/03/2016 18:26:29</publishTime>
+      <publishTime>03/12/2016 18:26:29</publishTime>
     </File>
     <File Include="Views/web.config">
-      <publishTime>07/02/2016 23:15:35</publishTime>
+      <publishTime>02/07/2016 23:15:35</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>07/02/2016 19:10:36</publishTime>
+      <publishTime>02/07/2016 19:10:36</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/12/2016 19:40:58</publishTime>
+      <publishTime>12/03/2016 19:40:58</publishTime>
     </File>
   </ItemGroup>
 </Project>
