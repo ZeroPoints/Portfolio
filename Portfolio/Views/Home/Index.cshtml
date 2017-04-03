@@ -2,31 +2,37 @@
     ViewBag.Title = "Home";
 }
 
-<h2>About Me</h2>
-<span>
-    I'm Matthew Worthley, an aspiring software developer and tech enthusiast.
-</span>
-<h3>Languages</h3>
-<ul>
-    <li>C#</li>
-    <li>C++</li>
-    <li>Java</li>
-</ul>
-<h3>Web Dev</h3>
-<ul>
-    <li>PHP</li>
-    <li>C# ASP.net</li>
-    <li>JS</li>
-</ul>
-<h3>Database Architectures</h3>
-<ul>
-    <li>MSSQL</li>
-    <li>MYSQL</li>
-    <li>CQL</li>
-</ul>
-<h3>Environments</h3>
-<ul>
-    <li>Windows (ME, XP, 7, 8, 10, 2008 R2, 2012)</li>
-    <li>Linux (Ubuntu, BackTrack/Kali)</li>
-    <li>FreeBSD</li>
-</ul>
+<div itemscope itemtype="http://data-vocabulary.org/Person">
+    <h2>About Me</h2>
+    <span>
+        I'm <span itemprop="name">Matthew Worthley</span>, an aspiring software developer and tech enthusiast.
+    </span>
+    <h3>Languages</h3>
+    <ul>
+        <li>C#</li>
+        <li>C++</li>
+        <li>Java</li>
+    </ul>
+    <h3>Web Dev</h3>
+    <ul>
+        <li>PHP</li>
+        <li>C# ASP.net</li>
+        <li>JS</li>
+    </ul>
+    <h3>Database Architectures</h3>
+    <ul>
+        <li>MSSQL</li>
+        <li>MYSQL</li>
+        <li>CQL</li>
+    </ul>
+    <h3>Environments</h3>
+    <ul>
+        <li>Windows (ME, XP, 7, 8, 10, 2008 R2, 2012)</li>
+        <li>Linux (Ubuntu, BackTrack/Kali, Fedora)</li>
+        <li>FreeBSD</li>
+    </ul>
+</div>
+
+@section metabundle{
+    <meta name="description" content="Matthew Worthley -> About me">
+}

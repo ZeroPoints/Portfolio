@@ -22,7 +22,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/25/2013 15:40:12</publishTime>
     </File>
     <File Include="bin/Portfolio.dll">
-      <publishTime>03/12/2016 19:40:57</publishTime>
+      <publishTime>04/03/2017 20:02:13</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>06/18/2015 19:19:46</publishTime>
@@ -142,19 +142,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/03/2016 18:50:20</publishTime>
     </File>
     <File Include="Views/Fractal/Index.cshtml">
-      <publishTime>12/03/2016 18:50:37</publishTime>
+      <publishTime>03/04/2017 19:21:08</publishTime>
     </File>
     <File Include="Views/Home/Experience.cshtml">
-      <publishTime>12/03/2016 21:12:25</publishTime>
+      <publishTime>03/04/2017 19:21:04</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>03/12/2016 21:03:02</publishTime>
+      <publishTime>03/04/2017 19:30:42</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>07/02/2016 19:10:43</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>12/03/2016 18:26:29</publishTime>
+      <publishTime>03/04/2017 19:25:43</publishTime>
     </File>
     <File Include="Views/web.config">
       <publishTime>07/02/2016 23:15:35</publishTime>
@@ -163,7 +163,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/02/2016 19:10:36</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/12/2016 19:40:58</publishTime>
+      <publishTime>03/04/2017 19:43:13</publishTime>
     </File>
   </ItemGroup>
 </Project>

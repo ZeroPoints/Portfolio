@@ -2,8 +2,14 @@
 <html>
 <head>
     <meta charset="utf-8" />
+
+
+    @RenderSection("metabundle", false)
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Matthew Worthley - Portfolio - @ViewBag.Title</title>
+
+
+    <title>Matthew Worthley - @ViewBag.Title</title>
     @Styles.Render("~/Styles/css")
     @Scripts.Render("~/Scripts/modernizr")
 
@@ -42,6 +48,6 @@
 
     @Scripts.Render("~/Scripts/jquery")
     @Scripts.Render("~/Scripts/bootstrap")
-    @RenderSection("scripts", required: false)
+    @RenderSection("scripts", false)
 </body>
 </html>
